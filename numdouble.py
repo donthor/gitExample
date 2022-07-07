@@ -4,4 +4,4 @@ def doubler(number):
 get_number = float(input("Type a number: "))
 print('Getting your answer')
 answer = doubler(get_number)
-print(f'Your answer is: {answer}')
+print(f'Your correct answer is: {answer}')
